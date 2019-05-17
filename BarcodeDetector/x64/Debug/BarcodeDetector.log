@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\chuak\desktop\ce 101\cd\software\project_state\barcodedetector\barcodedetector\source.cpp(61): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\chuak\desktop\ce 101\cd\software\project_state\barcodedetector\barcodedetector\source.cpp(122): warning C4101: 'ker': unreferenced local variable
+  BarcodeDetector.vcxproj -> C:\Users\chuak\Desktop\CE 101\CD\software\project_state\BarcodeDetector\x64\Debug\BarcodeDetector.exe
